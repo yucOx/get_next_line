@@ -11,9 +11,4 @@
 - Birden fazla dosya veya stdin ile aynı anda çalışabilme.
 - Bellek sızdırmalarını önleyen güvenli bir kod yapısı.
 
-## Nasıl Kullanılır
 
-1. Repo klonlanır:
-
-   ```sh
-   git clone https://github.com/yucOx/get_next_line.git
